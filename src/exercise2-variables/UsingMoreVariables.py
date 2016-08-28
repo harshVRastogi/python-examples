@@ -8,7 +8,7 @@ my_eyes = "brown"
 my_teeth = "yellow"
 my_hair = "black"
 
-# %s is one of the format specifiers which is used to modify a string.
+# %s is one of the format specifiers which is used to represent a string.
 # %d or %i - decimal, integer
 # %o -  octal
 # %x, %X - unsigned hexadecimal, lower case and upper case
