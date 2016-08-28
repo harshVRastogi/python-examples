@@ -45,7 +45,7 @@ print persian_cat
 print backslash_cat
 print fat_cat
 print my_name
-# Unicode value of a is 0041 which is in hex
+# Unicode value of A is 0041 which is in hex
 print u"\u0041"
 print u"\u00B0\u0048\u0041\u0052\u0053\u0048\u00B0"
 print "\077"  # can't go beyond 77 as it's octal
