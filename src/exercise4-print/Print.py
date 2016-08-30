@@ -7,4 +7,4 @@ print formatter % (
     "She's got that style",
     "She's got that smile " + "She's got that xing",
     "That one thing ",
-    "She's got a penis")
+    "She's got a ####")
