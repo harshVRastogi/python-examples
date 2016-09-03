@@ -34,8 +34,9 @@ print_two_2('Harsh', 'Rastogi')
 print_one("Meerut")
 print_none()
 
-# what you should see
+# run
 # $ python BasicFunctions.py
+# output
 # function : print_two
 # arg1: 'Harsh', arg2: 'Rastogi'
 # function : print_two_2
