@@ -22,5 +22,5 @@ print "Copying done!"
 
 # in_file.close()
 # out_file.close()
-# no need to close file when with the reading the new way
+# no need to close file when reading the new way
 
