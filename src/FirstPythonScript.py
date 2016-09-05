@@ -6,3 +6,11 @@ print "PyCharms works Charming"
 print 'Started using Python'
 # Double quotes "" and '' single quotes both work in python for string literal
 print 'Python is Awesome'
+
+# run
+# $ python FirstPythonScript.py
+# output
+# Hello World!
+# PyCharms works Charming
+# Started using Python
+# Python is Awesome
